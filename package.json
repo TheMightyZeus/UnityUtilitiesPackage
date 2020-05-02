@@ -1,0 +1,10 @@
+{
+	"name":"com.seiferware.unity.utilities",
+	"version":"0.1.0",
+	"displayName":"Seiferware Utilities",
+	"description":"",
+	"unity":"2019.3",
+	"author": {
+		"name": "Zeus Brown"
+	}
+}
